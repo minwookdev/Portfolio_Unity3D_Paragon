@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06c411ef65c54da4b84a371b4790869e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sniperRifleEffect: {instanceID: 0}
+  - hudDamageText: {instanceID: 0}
+  - hudPos: {instanceID: 0}
+  - healItem: {fileID: 8993871655256685544, guid: 8da34db37397ca243bf332000a8f2a7c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
